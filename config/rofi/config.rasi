@@ -1,0 +1,9 @@
+//@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"
+//@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"
+@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"
+
+configuration {
+
+	font: "CascadiaCode Bold 10";
+	dpi: 150;
+}
