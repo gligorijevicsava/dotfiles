@@ -1,7 +1,4 @@
-mkinitcpio.conf filter=lfs diff=lfs merge=lfs -text
 chrome filter=lfs diff=lfs merge=lfs -text
 config filter=lfs diff=lfs merge=lfs -text
 wallpaper.jpg filter=lfs diff=lfs merge=lfs -text
-grub filter=lfs diff=lfs merge=lfs -text
-environment filter=lfs diff=lfs merge=lfs -text
 git filter=lfs diff=lfs merge=lfs -text
